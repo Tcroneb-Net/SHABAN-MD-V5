@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY WORLD OF TECHNOLOGY TEAM FREE BOOST PLEASE FOR MORE JOIN OUR GROUP BUT FIRST ADD YOUR CONTACT AND USERNAME THERE 👉 https://statusplus.zone.id*",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
